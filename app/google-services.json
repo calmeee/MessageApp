@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "659901739856",
+    "firebase_url": "https://chatapp-a595c.firebaseio.com",
+    "project_id": "chatapp-a595c",
+    "storage_bucket": "chatapp-a595c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659901739856:android:ee03e1d37b151049",
+        "android_client_info": {
+          "package_name": "com.calmeee.messageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659901739856-cotbe248kp672oc3h2nueo368gtbiofh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmb2KvVRFngrhCAuNFhEAksDWD4pt6018"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
